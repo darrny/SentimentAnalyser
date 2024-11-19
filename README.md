@@ -1,6 +1,4 @@
-Here’s the README.md tailored for your Sentiment Analyser project:
-
-Sentiment Analyser
+Sentiment Analyser 😁😣😡
 
 This project analyzes Amazon reviews to explore the relationship between star ratings and sentiment scores. Using the VADER Sentiment Analysis tool, it uncovers insights into how users express sentiment in their reviews and visualizes patterns like common word usage and mismatches between ratings and sentiments.
 
