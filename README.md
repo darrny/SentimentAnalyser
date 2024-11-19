@@ -41,3 +41,10 @@ You can access the code on Kaggle using the link below:
   -	Incorporate topic modeling to explore themes across reviews.
 	-	Compare performance with other sentiment analysis tools or models.
 	-	Expand analysis to include product categories for more specific insights.
+
+📸 Screenshots
+
+<img width="964" alt="Screenshot 2024-11-19 at 8 44 45 PM" src="https://github.com/user-attachments/assets/15e67465-87b7-41de-8d44-79e22a3cf052">
+<img width="964" alt="Screenshot 2024-11-19 at 8 43 32 PM" src="https://github.com/user-attachments/assets/8c9473ae-85f7-43b0-adb7-953a4110058f">
+<img width="964" alt="Screenshot 2024-11-19 at 8 44 16 PM" src="https://github.com/user-attachments/assets/f9af87d6-dca8-4f4c-9073-a275a13d66e0">
+
