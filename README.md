@@ -3,6 +3,7 @@
 This project analyzes Amazon reviews to explore the relationship between star ratings and sentiment scores. Using the **VADER Sentiment Analysis** tool, it uncovers insights into how users express sentiment in their reviews and visualizes patterns such as common word usage and mismatches between ratings and sentiments.
 
 📝 **Notebook**  
+
 [Sentiment Analyser on Kaggle](https://www.kaggle.com/code/darrny/sentiment-analyser)
 
 ---
